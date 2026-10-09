@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171892077532",
+    "project_id": "jxec-lab05",
+    "storage_bucket": "jxec-lab05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171892077532:android:ae3724aee6b57b33919519",
+        "android_client_info": {
+          "package_name": "com.example.ListyCity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIeQ2WqDmrLc9W9OVhAaid-hsxA44QL8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
